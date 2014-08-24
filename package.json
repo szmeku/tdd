@@ -1,0 +1,25 @@
+{
+  "name": "tdd",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/szmeku/tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szmeku/tdd/issues"
+  },
+  "homepage": "https://github.com/szmeku/tdd",
+  "devDependencies": {
+    "karma": "^0.12.22",
+    "karma-cli": "0.0.4",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
